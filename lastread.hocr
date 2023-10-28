@@ -1,0 +1,40 @@
+  <div class='ocr_page' id='page_1' title='image "unknown"; bbox 0 0 700 440; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 19 22 685 424">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 19 22 685 424">
+     <span class='ocr_line' id='line_1_1' title="bbox 21 22 531 75; baseline -0.002 -1; x_size 64.584618; x_descenders 12.584616; x_ascenders 20">
+      <span class='ocrx_word' id='word_1_1' title='bbox 21 25 67 74; x_wconf 92'>It</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 85 42 191 74; x_wconf 97'>was</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 213 23 304 74; x_wconf 95'>the</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 325 22 445 75; x_wconf 94'>best</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 467 23 531 74; x_wconf 86'>of</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 19 106 674 168; baseline 0 -11; x_size 63; x_descenders 12; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_6' title='bbox 19 109 192 168; x_wconf 95'>times,</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 215 109 256 157; x_wconf 93'>it</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 273 125 379 157; x_wconf 92'>was</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 401 106 493 157; x_wconf 94'>the</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 511 120 674 157; x_wconf 87'>worst</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 19 189 685 258; baseline 0.002 -19; x_size 69; x_descenders 18; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_11' title='bbox 19 189 84 240; x_wconf 84'>of</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 97 192 270 251; x_wconf 93'>times,</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 292 192 333 240; x_wconf 95'>it</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 351 208 457 240; x_wconf 94'>was</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 479 189 570 240; x_wconf 94'>the</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 593 208 685 258; x_wconf 94'>age</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 19 271 636 334; baseline -0.002 -11; x_size 64; x_descenders 12; x_ascenders 20">
+      <span class='ocrx_word' id='word_1_17' title='bbox 19 272 84 323; x_wconf 84'>of</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 93 271 335 334; x_wconf 92'>wisdom,</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 358 276 399 322; x_wconf 91'>it</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 416 291 522 323; x_wconf 92'>was</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 544 272 636 323; x_wconf 93'>the</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 20 354 580 424; baseline -0.002 -18; x_size 70; x_descenders 18; x_ascenders 20">
+      <span class='ocrx_word' id='word_1_22' title='bbox 20 374 112 424; x_wconf 93'>age</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 134 354 199 406; x_wconf 82'>of</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 213 354 580 406; x_wconf 83'>foolishness...</span>
+     </span>
+    </p>
+   </div>
+  </div>
