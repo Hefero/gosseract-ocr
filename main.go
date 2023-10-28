@@ -10,7 +10,7 @@ func main() {
 	client := gosseract.NewClient()
 	defer client.Close()
 	client.SetImage("input.png")
-	text, _ := client.HOCRText()
+	text, _ := client.Text()
 	fmt.Println(text)
 	// Hello, World!
 }
