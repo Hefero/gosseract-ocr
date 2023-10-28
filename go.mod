@@ -1,5 +1,5 @@
-module github.com/otiai10/gosseract/v2
+module github.com/Hefero/gosseract-ocr
 
-go 1.18
+go 1.21.3
 
-require github.com/otiai10/mint v1.6.3
+require github.com/otiai10/gosseract/v2 v2.4.1 // indirect
